@@ -74,6 +74,7 @@ st.sidebar.audio(audio_bytes, format='audio/mp3')
 
 # 标题
 st.title(":sunny: 小蒋带你看订单数据")
+st.write('项目Github地址：https://github.com/jyw2000-jyw/OrderData-visualization-base-on-streamlit')
 st.write('数据来源：天猫 https://www.tmall.com/')
 st.write('时间跨度：2020-2-1至2020-2-29')
 st.markdown("###")
