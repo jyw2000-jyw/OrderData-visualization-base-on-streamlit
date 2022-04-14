@@ -40,10 +40,6 @@ import jieba
 # 统计
 from collections import Counter
 
-#解决中文显示问题
-plt.rcParams['font.sans-serif'] = ['KaiTi'] # 指定默认字体
-plt.rcParams['axes.unicode_minus'] = False # 解决保存图像是负号'-'显示为方块的问题
-
 #####################################################################################################################
 ## Part 2.侧边栏
 
